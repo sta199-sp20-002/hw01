@@ -1,5 +1,5 @@
 ---
-title: "Lab 01 - Hello R"
+title: "HW 01 - Halloween Candy"
 author: "Yue Jiang"
 date: "Add the date here. Due Wed, Jan 29 at 11:59p"
 output:
@@ -44,3 +44,4 @@ Answer the question in the narrative here.
 
 # Exercise 8
 
+Don't forget to knit to .pdf and upload on Gradescope! You must associate each question with a page and the "Overall section" with the first page.
