@@ -1,0 +1,46 @@
+---
+title: "Lab 01 - Hello R"
+author: "Yue Jiang"
+date: "Add the date here. Due Wed, Jan 29 at 11:59p"
+output:
+  html_document: default
+  pdf_document: default
+---
+
+```{r, warning = FALSE, message = FALSE}
+library(tidyverse)
+library(fivethirtyeight)
+```
+
+# Exercise 1
+
+```{r, ex-1-dataset-basics}
+# Write your R code in this chunk; delete this comment afterward.
+
+```
+
+Answer the question in the narrative here.
+
+# Exercise 2
+
+Answer the question in the narrative here.
+
+# Exercise 3
+
+```{r, ex-3-winpercent-vs-chocolate}
+# Write your R code in this chunk; delete this comment afterward.
+
+```
+
+Answer the question in the narrative here.
+
+# Exercise 4
+
+# Exercise 5
+
+# Exercise 6
+
+# Exercise 7
+
+# Exercise 8
+
